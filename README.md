@@ -132,7 +132,7 @@ Yes. The CLI is pure Python and runs on macOS, Linux, and Windows (WSL recommend
 
 ## Security
 
-Found a bug or vulnerability? Email **security@latenightstack.com** — we respond within 48 hours.
+Found a bug or vulnerability? Email **founder@latenightstack.com** — we respond within 48 hours.
 
 ---
 
